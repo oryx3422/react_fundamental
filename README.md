@@ -1,7 +1,5 @@
 # React Fundamental
 
-## Описание проекта
-
 Проект выполнен на **React + JavaScript**.
 
 Веб-приложение для работы с постами: отображение списка постов, создание новых постов, фильтрация, сортировка, поиск и детальный просмотр. Проект демонстрирует основные концепции React: управление состоянием, жизненный цикл компонентов, работа с хуками, роутинг и работа с API.
@@ -127,3 +125,4 @@ react_fundament/
 - [React Documentation](https://react.dev/)
 - [React Router Documentation](https://reactrouter.com/)
 - [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)
+
